@@ -8,7 +8,7 @@
     "url": "https://github.com/snyk-fixtures/npm-cross-repo-pr"
   },
   "dependencies": {
-    "qs": "0.0.6",
-    "node-uuid": "1.4.0"
+    "qs": "1.0.0",
+    "node-uuid": "1.4.2"
   }
 }
